@@ -1,4 +1,4 @@
-# Sanjay-Sales-Finance-Analytics
+# Sanjay-Sales-Finance-Analytics |Excel Report|
 📈 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄: AtliQ Hardwares has faced some tough financial challenges and relied on manual reporting, making it difficult to access quick, accurate insights for decision-making. They needed a solution to improve how they can view their financial and sales performance.
 
 🔍 𝗣𝗿𝗼𝗰𝗲𝘀𝘀 & 𝗦𝘁𝗲𝗽𝘀: To build this report, I used several tools and techniques:
